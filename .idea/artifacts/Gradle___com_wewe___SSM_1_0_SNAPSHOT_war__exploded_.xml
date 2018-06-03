@@ -17,8 +17,12 @@
           <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
         </element>
         <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: ch.qos.logback:logback-classic:1.1.1" />
+          <element id="library" level="project" name="Gradle: mysql:mysql-connector-java:5.1.37" />
+          <element id="library" level="project" name="Gradle: c3p0:c3p0:0.9.1.2" />
+          <element id="library" level="project" name="Gradle: org.mybatis:mybatis:3.3.0" />
           <element id="library" level="project" name="Gradle: org.mybatis:mybatis-spring:1.2.3" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:4.3.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: taglibs:standard:1.1.2" />
           <element id="library" level="project" name="Gradle: jstl:jstl:1.2" />
           <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.5.4" />
           <element id="library" level="project" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" />
@@ -28,13 +32,14 @@
           <element id="library" level="project" name="Gradle: org.springframework:spring-jdbc:4.3.6.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-tx:4.3.6.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-aop:4.3.6.RELEASE" />
-          <element id="library" level="project" name="Gradle: org.mybatis:mybatis:3.3.0" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:4.3.6.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-test:4.3.6.RELEASE" />
-          <element id="library" level="project" name="Gradle: taglibs:standard:1.1.2" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:4.3.6.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-core:4.3.6.RELEASE" />
           <element id="library" level="project" name="Gradle: redis.clients:jedis:2.7.3" />
           <element id="library" level="project" name="Gradle: com.dyuproject.protostuff:protostuff-core:1.0.8" />
           <element id="library" level="project" name="Gradle: com.dyuproject.protostuff:protostuff-runtime:1.0.8" />
+          <element id="library" level="project" name="Gradle: commons-collections:commons-collections:3.2" />
           <element id="library" level="project" name="Gradle: ch.qos.logback:logback-core:1.1.1" />
           <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.6" />
           <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.5.0" />
@@ -42,12 +47,7 @@
           <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
           <element id="library" level="project" name="Gradle: org.apache.commons:commons-pool2:2.3" />
           <element id="library" level="project" name="Gradle: com.dyuproject.protostuff:protostuff-collectionschema:1.0.8" />
-          <element id="library" level="project" name="Gradle: ch.qos.logback:logback-classic:1.1.1" />
-          <element id="library" level="project" name="Gradle: mysql:mysql-connector-java:5.1.37" />
-          <element id="library" level="project" name="Gradle: c3p0:c3p0:0.9.1.2" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:4.3.6.RELEASE" />
           <element id="library" level="project" name="Gradle: com.dyuproject.protostuff:protostuff-api:1.0.8" />
-          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2/f951934aa5ae5a88d7e6dfaa6d32307d834a88be/commons-collections-3.2.jar" />
         </element>
       </element>
     </root>

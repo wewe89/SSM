@@ -10,10 +10,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
-@RequestMapping("/mvc")
 public class mvcController {
 
-    @RequestMapping("/hello")
+    @RequestMapping("/index")
     public String hello(){
         return "index";
     }
