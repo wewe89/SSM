@@ -259,6 +259,6 @@
 </section>
 <footer id="footer"></footer>
 
-<script src="js/admin.js"></script>
+<script src="../js/admin.js"></script>
 </body>
 </html>
