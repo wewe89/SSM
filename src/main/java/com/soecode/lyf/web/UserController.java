@@ -17,6 +17,9 @@ public class UserController {
     private String login(HttpServletRequest request, HttpServletResponse response) {
         String userid=request.getParameter("userid");
         String password=request.getParameter("password");
+
+
+
 //        System.out.println(userid+"----"+password);
         return "index";
     }
