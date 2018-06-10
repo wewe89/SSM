@@ -170,9 +170,9 @@
         <a class="waves-effect" href="javascript:Tab.addTab('首页', 'home');"><i class="zmdi zmdi-home"></i> 首页</a>
       </li>
       <li class="sub-menu system_menus system_1 0">
-        <a class="waves-effect" href="javascript:;"><i class="zmdi zmdi-accounts-list"></i> 系统组织管理</a>
+        <a class="waves-effect" href="javascript:;"><i class="zmdi zmdi-accounts-list"></i> 许可证管理管理</a>
         <ul>
-          <li><a class="waves-effect" href="javascript:Tab.addTab('系统管理', 'crud.html');">系统管理</a></li>
+          <li><a class="waves-effect" href="javascript:Tab.addTab('系统管理', '/licence/common.html');">一般许可证管理</a></li>
           <li><a class="waves-effect" href="javascript:Tab.addTab('组织管理', '/manage/organization/index');">组织管理</a></li>
         </ul>
       </li>
